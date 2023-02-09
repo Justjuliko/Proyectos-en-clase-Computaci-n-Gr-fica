@@ -15092,20 +15092,36 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2100000, guid: 5fe71d2c4dfd075429ad57a92ac38646, type: 2}
     - target: {fileID: 2557840127121565354, guid: ac513674ec5fe5441bfd60c6a3b57db7, type: 3}
+      propertyPath: InitialModule.size3D
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2557840127121565354, guid: ac513674ec5fe5441bfd60c6a3b57db7, type: 3}
+      propertyPath: InitialModule.rotation3D
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2557840127121565354, guid: ac513674ec5fe5441bfd60c6a3b57db7, type: 3}
       propertyPath: InitialModule.startSize.scalar
       value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 2557840127121565354, guid: ac513674ec5fe5441bfd60c6a3b57db7, type: 3}
+      propertyPath: InitialModule.startSizeY.scalar
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2557840127121565354, guid: ac513674ec5fe5441bfd60c6a3b57db7, type: 3}
+      propertyPath: InitialModule.startSizeZ.scalar
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2557840127121565354, guid: ac513674ec5fe5441bfd60c6a3b57db7, type: 3}
       propertyPath: InitialModule.startColor.maxColor.b
-      value: 0.7924528
+      value: 0.9960785
       objectReference: {fileID: 0}
     - target: {fileID: 2557840127121565354, guid: ac513674ec5fe5441bfd60c6a3b57db7, type: 3}
       propertyPath: InitialModule.startColor.maxColor.g
-      value: 0
+      value: 0.34117648
       objectReference: {fileID: 0}
     - target: {fileID: 2557840127121565354, guid: ac513674ec5fe5441bfd60c6a3b57db7, type: 3}
       propertyPath: InitialModule.startColor.maxColor.r
-      value: 0.6612103
+      value: 0.9960785
       objectReference: {fileID: 0}
     - target: {fileID: 2557840127121565355, guid: ac513674ec5fe5441bfd60c6a3b57db7, type: 3}
       propertyPath: m_RootOrder
